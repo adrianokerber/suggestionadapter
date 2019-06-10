@@ -27,18 +27,20 @@ viewAutoCompleteSuggestion.setAdapter(
 In order to add our module to your project, do the following steps.
 
 1. Add it in your root build.gradle at the end of repositories:
+
 ```groovy
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
 ```
 
 2. Add the dependency:
+
 ```groovy
-	dependencies {
-		implementation 'com.github.adrianokerber:suggestionadapter:v1.0.0'
-	}
+dependencies {
+    implementation 'com.github.adrianokerber:suggestionadapter:v1.0.0'
+}
 ```
