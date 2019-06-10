@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuggestionAdapter</string>
+    <string name="regular_auto_complete">Regular completion: Try to type your email (The text will replace all content)</string>
+    <string name="custom_auto_complete">Our custom completion: Try to type your email (The options will keep what you typed in)</string>
+</resources>
