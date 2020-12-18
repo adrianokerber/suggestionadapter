@@ -1,7 +1,7 @@
 # Suggestion Adapter
 ## The custom adapter for auto-complete triggered by a string
 
-This is the SuggestionAdapter. An adapter aimed to be used (But not only) with the AutoCompleteTextView component.
+This is the SuggestionAdapter. An adapter aimed to be used (But not only) with the AutoCompleteTextView component from Android.
 The main point is that the adapter has a trigger (String) that starts the auto-complete list and will insert the user input + the suggestions from the list.
 
 ### Usage examples
